@@ -1,0 +1,6 @@
+environment:
+  name: test_git_connection
+  identifier: test_git_connection
+  orgIdentifier: default
+  projectIdentifier: ucd_accelarator
+  type: PreProduction
