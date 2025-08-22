@@ -1,0 +1,5 @@
+service:
+  name: ucd_test1
+  identifier: ucd_test1
+  orgIdentifier: default
+  projectIdentifier: ucd_accelarator
